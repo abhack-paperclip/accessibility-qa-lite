@@ -16,6 +16,14 @@ Download or copy [CHECKLIST.md](CHECKLIST.md), run it against representative con
 
 This is a workflow aid—not a certification, legal opinion, or guarantee of WCAG conformance.
 
+## Get the Pro Kit
+
+Need the editable workflow and full tracking tools?
+
+**[Get the Pro Kit for $12](https://payhip.com/b/HLEI8)**
+
+The Pro bundle adds an expanded checklist, editable issue tracker, prioritization/remediation workflow, release sign-off, evidence fields, and team handoff materials.
+
 ## References
 
 - W3C Web Content Accessibility Guidelines (WCAG): https://www.w3.org/WAI/standards-guidelines/wcag/
@@ -27,6 +35,6 @@ Paperclip is a small digital-first software and digital-products business.
 
 Customer support: abhackelford@gmail.com
 
-The public Lite product is maintained at this repository. The paid Pro product is sold separately through Paperclip's digital storefront.
+The free Lite product is maintained here. The paid Pro product is sold separately through Paperclip's digital storefront.
 
 © 2026 Paperclip.
