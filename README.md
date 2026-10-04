@@ -2,27 +2,30 @@
 
 A practical, vendor-neutral pre-release accessibility QA checklist for courses, documents, web pages, and digital handouts.
 
-## What Paperclip sells
+## Who this is for
 
-**Lite:** A free accessibility QA checklist and issue-log template for digital content creators.
+Course creators, instructional designers, trainers, and small teams who publish
+documents or web content and want a quick, repeatable check before release,
+without reading the full WCAG standard first.
 
-**Pro:** A paid digital workflow bundle containing an expanded checklist, editable issue-tracking workbook, remediation tracking, prioritization, release sign-off, and team handoff materials.
+## How to use it (15 minutes)
 
-Paperclip sells digital workflow tools and templates. Products are delivered electronically.
+1. Open [CHECKLIST.md](CHECKLIST.md) next to the content you're about to publish.
+2. Work through each section; note problems in [ISSUE-LOG.csv](ISSUE-LOG.csv).
+3. Finish with the three smoke tests: keyboard only, zoom, and a screen reader or checker.
+4. Fix what blocks people first (missing alt text, unlabeled controls, keyboard traps).
 
-## Use the free Lite version
+[GUIDE.md](GUIDE.md) explains each check in more detail.
 
-Download or copy [CHECKLIST.md](CHECKLIST.md), run it against representative content, and log findings in [ISSUE-LOG.csv](ISSUE-LOG.csv).
+This is a workflow aid, not a certification, legal opinion, or guarantee of WCAG conformance.
 
-This is a workflow aid—not a certification, legal opinion, or guarantee of WCAG conformance.
+## Want the full workflow?
 
-## Get the Pro Kit
+The **[Pro kit ($12)](https://payhip.com/b/HLEI8)** adds an expanded checklist, an editable issue
+tracker with priority and remediation fields, triage rules, a release sign-off step, evidence
+fields, and team handoff materials.
 
-Need the editable workflow and full tracking tools?
-
-**[Get the Pro Kit for $12](https://payhip.com/b/HLEI8)**
-
-The Pro bundle adds an expanded checklist, editable issue tracker, prioritization/remediation workflow, release sign-off, evidence fields, and team handoff materials.
+The free checklist stays free.
 
 ## References
 
